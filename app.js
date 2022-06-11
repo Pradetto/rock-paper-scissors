@@ -49,7 +49,7 @@ function game(){
         }
         round += 1
         // let winner = playRound()
-        alert(`For Round ${round} of 5 the current score: \nYou: ${playerScore}\nComputer: ${computerScore} \nTied: ${tied}`);
+        alert(`Round ${round} of 5 Current Score: \nYou: ${playerScore}\nComputer: ${computerScore} \nTied: ${tied}`);
     }
     return playerScore > computerScore ? alert('Winner') : alert('Sorry you lost refresh the page and try again')
 };
