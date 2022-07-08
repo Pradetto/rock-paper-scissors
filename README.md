@@ -1,2 +1,2 @@
 # rock-paper-scissors
-TOP
+https://pradetto.github.io/rock-paper-scissors/
